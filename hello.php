@@ -1,2 +1,4 @@
 <?php
-echo 'hello,world!'
+    session_start();
+    echo 'hello world';
+
